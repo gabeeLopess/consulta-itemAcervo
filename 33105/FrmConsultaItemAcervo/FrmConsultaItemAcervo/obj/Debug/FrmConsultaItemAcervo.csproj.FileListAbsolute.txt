@@ -1,0 +1,14 @@
+C:\Users\estagiario2\Documents\GitHub\FrmConsultaItemAcervo\FrmConsultaItemAcervo\bin\Debug\FrmConsultaItemAcervo.exe.config
+C:\Users\estagiario2\Documents\GitHub\FrmConsultaItemAcervo\FrmConsultaItemAcervo\bin\Debug\FrmConsultaItemAcervo.exe
+C:\Users\estagiario2\Documents\GitHub\FrmConsultaItemAcervo\FrmConsultaItemAcervo\bin\Debug\FrmConsultaItemAcervo.pdb
+C:\Users\estagiario2\Documents\GitHub\FrmConsultaItemAcervo\FrmConsultaItemAcervo\obj\Debug\FrmConsultaItemAcervo.csproj.AssemblyReference.cache
+C:\Users\estagiario2\Documents\GitHub\FrmConsultaItemAcervo\FrmConsultaItemAcervo\obj\Debug\FrmConsultaItemAcervo.csproj.SuggestedBindingRedirects.cache
+C:\Users\estagiario2\Documents\GitHub\FrmConsultaItemAcervo\FrmConsultaItemAcervo\obj\Debug\FrmConsultaItemAcervo.FrmConsultaItemAcervo.resources
+C:\Users\estagiario2\Documents\GitHub\FrmConsultaItemAcervo\FrmConsultaItemAcervo\obj\Debug\FrmConsultaItemAcervo.Properties.Resources.resources
+C:\Users\estagiario2\Documents\GitHub\FrmConsultaItemAcervo\FrmConsultaItemAcervo\obj\Debug\FrmConsultaItemAcervo.csproj.GenerateResource.cache
+C:\Users\estagiario2\Documents\GitHub\FrmConsultaItemAcervo\FrmConsultaItemAcervo\obj\Debug\FrmConsultaItemAcervo.csproj.CoreCompileInputs.cache
+C:\Users\estagiario2\Documents\GitHub\FrmConsultaItemAcervo\FrmConsultaItemAcervo\obj\Debug\FrmConsultaItemAcervo.exe
+C:\Users\estagiario2\Documents\GitHub\FrmConsultaItemAcervo\FrmConsultaItemAcervo\obj\Debug\FrmConsultaItemAcervo.pdb
+C:\Users\estagiario2\Documents\GitHub\FrmConsultaItemAcervo\FrmConsultaItemAcervo\obj\Debug\FrmConsultaItemAcervo.FrmSelecionarAutor.resources
+C:\Users\estagiario2\Documents\GitHub\FrmConsultaItemAcervo\FrmConsultaItemAcervo\obj\Debug\FrmConsultaItemAcervo.FrmSelecionarLocal.resources
+C:\Users\estagiario2\Documents\GitHub\FrmConsultaItemAcervo\FrmConsultaItemAcervo\obj\Debug\FrmConsultaItemAcervo.FrmSelecionarSecao.resources
